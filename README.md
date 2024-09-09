@@ -28,6 +28,3 @@ spring:
     url: r2dbc:postgresql://localhost:5432/meubanco
     username: usuario
     password: senha
-
-Como Rodar o Projeto
-Rodando Localmente

@@ -3,7 +3,7 @@
 Este projeto é uma API reativa utilizando **Spring WebFlux** e **R2DBC** (Reactive Relational Database Connectivity) para comunicação com o banco de dados. Ele é construído com uma arquitetura não-bloqueante, focada em alta escalabilidade e performance.
 
 ## Tecnologias Utilizadas
-- **Java 17** ou superior
+- **Java 17** ou superior ou teste
 - **Spring Boot** 2.5+
 - **Spring WebFlux**
 - **R2DBC** (PostgreSQL ou outro banco suportado)
